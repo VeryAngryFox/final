@@ -1,0 +1,15 @@
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\bin\Debug\net7.0\program.exe
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\bin\Debug\net7.0\program.deps.json
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\bin\Debug\net7.0\program.runtimeconfig.json
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\bin\Debug\net7.0\program.dll
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\bin\Debug\net7.0\program.pdb
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\program.csproj.AssemblyReference.cache
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\program.AssemblyInfoInputs.cache
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\program.AssemblyInfo.cs
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\program.csproj.CoreCompileInputs.cache
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\program.dll
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\refint\program.dll
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\program.pdb
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\program.genruntimeconfig.cache
+D:\Users\ks_pankratova\Saved Games\Desktop\Мое\final\program\obj\Debug\net7.0\ref\program.dll
